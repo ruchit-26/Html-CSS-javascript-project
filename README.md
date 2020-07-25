@@ -1,2 +1,2 @@
 # Html-CSS-javascript-project
-John Hopkins University
+By ruchit Tiwari
